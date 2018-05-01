@@ -1,5 +1,5 @@
-## Every Census Has a Story
-###Every Census Is a Story
+# Every Census Has a Story
+## Every Census Is a Story
 
 You can use the [editor on GitHub](https://github.com/danbouk/censusstories/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
