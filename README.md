@@ -1,23 +1,14 @@
-<<<<<<< HEAD
 # Every Census **Has** a Story
 # Every Census _Is_ a Story
-=======
-<<<<<<< HEAD
-# Every Census **Has** a Story
-# Every Census _Is_ a Story
-=======
-# Every Census Has a Story
-## Every Census Is a Story
->>>>>>> a03e5bc4fc28c53836ab41db64220576fe10cc71
->>>>>>> 7deb8e4fd0b76edc1f67d375a11c164da4b83859
 
-##To-day, I had my census took!
+## To-day, I had my census took!
 Mollie Levi knocked on Madge C. Crandall's door in New York's upper West side on 8 April 1930 and the encounter irked Crandall. Two days later, Crandall, a free-lance writer, pounded away a short poem on her typewriter and sent it to, who else, the President of the United States: Herbert Hoover. It began:
 
-> "Today I had my census took!
-> I am recorded in the book-
-> What I do, how old I am.
-> All my secrets for Uncle Sam."
+> "Today I had my census took!</br>
+> I am recorded in the book- </br>
+> What I do, how old I am.</br>
+> All my secrets for Uncle Sam."</br>
+
 
 Later in the poem, Crandall objected to the question asking about radio ownership---it seemed to her a sneaky kind of economic status snooping. And, in a complaint that resonates across the decades, she mocked a question about citizenship status.
 
@@ -30,12 +21,5 @@ But Levi was there: she signed the enumeration sheet (which offers a different s
 <!--ED: 31-396, SD: 22, sheet 2A-->
 Did it matter that Crandall spoke with a real person? It really might have.
 
-Both women were widows. Crandall was the elder, at 56 to Levi's 44. Crandall lived alone in an apartment rented for $75 a month, while Levi lived with four nearly adult children in a $40 apartment. Crandall likely viewed Levi as a social inferior. Was she embarrassed to admit that she owned a radio, when she could readily infer (correctly) that Levi did not? 
+Both women were widows. Crandall was the elder, at 56 to Levi's 44. Crandall lived alone in an apartment rented for $75 a month, while Levi lived with four nearly adult children in a $40 apartment. Crandall likely viewed Levi as a social inferior. Was she embarrassed to admit that she owned a radio, when she could readily infer (correctly) that Levi did not?
 <!--On Levi, see ED:31-11-1, SD: 24, Sheet 6A; enumerated by Adele Steffens-->
-
-Crandall's experience of enumeration, because it left her so cranky that she "versified" it made me curious. What happened? What can we reconstruct about that day's events?
-
-We have two records to hand: Crandall's poem and the manuscript census sheets from 1930. Reading them together, we can make some inferences.
-
-First: Crandall's account erased the enumerator. There's no mention of Levi
-(For the record: Mollie did not own a radio. Madge did. Crandall told Levi she was native born, and her parents were too: both hailed from New York. Levi had been born in New York too, while her father was English. Both were widowed)
