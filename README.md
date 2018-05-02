@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Every Census **Has** a Story
 # Every Census _Is_ a Story
+=======
+# Every Census Has a Story
+## Every Census Is a Story
+>>>>>>> a03e5bc4fc28c53836ab41db64220576fe10cc71
 
 ##To-day, I had my census took!
 ????name enumerator??? knocked on Madge C. Crandall's door in New York's upper West side on 10 April 1930 and the encounter irked Crandall. She pounded away a short poem on her typewriter and sent it to, who else, the President of the United States: Herbert Hoover.
