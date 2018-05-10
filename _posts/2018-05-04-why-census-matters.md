@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Why A Census Matters"
+date:   2018-05-04 16:53:32 -0400
+categories:
+---
+
 ## Why a census matters
 Thursday, 3 May 2018
 
@@ -29,6 +36,7 @@ After the Civil War, the statistician Francis Amasa Walker pioneered graphical t
 
 The census started out as political tool and continues to have that purpose, but as it has grown and expanded in scope it came to see itself---and [be seen by others today](https://www.the-american-interest.com/2018/04/17/dictatorships-data-standards/)---as the single most important source of modern facts at the United States. A film announcing the coming 1940 census put the point quite forcibly, saying that the census provides: "[unbiased facts to measure markets for business and the farmer, plans of school and health officials, the needs of local governments, facts to guide the lawmakers, facts from which a free people can count its gains and chart its future.](https://youtu.be/Y-dUW592Nlw?t=163)" The census depended on citizens to make themselves known and offered to reveal the state of the nation in return:"[for: You cannot know your country, unless your country knows you.](https://youtu.be/Y-dUW592Nlw?t=179)"
 
+There's another reason the census matters to ordinary people these days, one that's frequently overlooked: genealogy. Whenever I visit the national archives or Library of Congress I am surrounded by genealogists plumbing their familial pasts. Americans today aren't just using the census to know their nation. In fact, I'd wager that many more people now turn to the census to know their families. But that's a big enough topic to warrant another post.
 
-
-about family stories, also so important today
+I'll just close with this note: the people organizing the 1940 census could not imagine today's flood of genealogical researchers. In a press release from the mid-1930s, a senior census official bragged that 3,608 people managed to secure permissions to dig through census archives in a year (for a variety of reasons: to prove eligibility for a Civil War pension, to fight over an estate, to get a work permit, to apply for old age pensions, and to construct genealogies). Although I haven't found any firm figures yet, I wouldn't be surprised if that many people logon to [Ancestry.com](https://www.ancestry.com) to search census records every hour. Mid-century census officials did understand why many people now turn to the census: "Every person in the United States, however insignificant he may be, has a permanent place in the history of the country, for a record of his personal life is made by the National Government every ten years and filed away in the government archives. Nobody need feel that he merely lives and dies without the facts about this existence permanently recorded, Census officials have pointed out." The census records and valorizes each individual and preserved them for posterity. The public was waiting: "No indication has yet been made as to when the 1880 records will be thrown open, but genealogists and historians are eagerly awaiting that event."
+<!---See Folder “C-3 Census Records: 1930” Entry 215, “Publicity Materials File of the Statistical Research Division” Box 231, NARA I--->  
