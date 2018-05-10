@@ -5,9 +5,6 @@ date:   2018-05-04 16:53:32 -0400
 categories:
 ---
 
-## Why a census matters
-Thursday, 3 May 2018
-
 Why does the census matter?
 
 A few answers appear often in recent reporting and opinion pieces worrying that the Trump administration may be sabotaging the 2020 census, by [underfunding, inadequate staffing,](https://www.politico.com/agenda/story/2017/05/13/head-of-census-bureau-resigns-2020-problems-000441) and [questions about citizenship that could deter participation](https://www.the-american-interest.com/2018/04/17/dictatorships-data-standards/). A lot is at stake, such writing correctly reveals: the distribution of [$600 billion](https://www.the-american-interest.com/2018/04/17/dictatorships-data-standards/) in federal funds depends on census counts, as does the allocation of representatives among the States. (Recall: the Constitution created the census count in order to fairly apportion representatives and levy direct taxes). Business too depends on census figures, especially the ['research industry'](https://www.insightsassociation.org/article/census-stakeholders-rally-full-funding-fy19) which makes much money by gathering, repackaging, analyzing, and selling free government data. We need not be surprised that political writers emphasize the (immense) political significance of the census. To them, the census is about wealth and power.
