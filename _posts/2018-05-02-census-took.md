@@ -1,11 +1,15 @@
-## To-day, I had my census took!
-Wednesday, 2 May 2018
+---
+layout: post
+title:  "'All My Secrets for Uncle Sam'"
+date:   2018-05-02 16:53:32 -0400
+categories:
+---
 Mollie Levi knocked on Madge C. Crandall's door in New York's upper West side on 8 April 1930 and the encounter irked Crandall. Two days later, Crandall, a free-lance writer, pounded away a short poem on her typewriter and sent it to, who else, the President of the United States: Herbert Hoover. It began:
 
-> "Today I had my census took!</br>
-> I am recorded in the book- </br>
-> What I do, how old I am.</br>
-> All my secrets for Uncle Sam."</br>
+> "Today I had my census took!\\
+I am recorded in the book-\\
+What I do, how old I am.\\
+All my secrets for Uncle Sam." \\
 
 
 Later in the poem, Crandall objected to the question asking about radio ownership---it seemed to her a sneaky kind of economic status snooping. And, in a complaint that resonates across the decades, she mocked a question about citizenship status.
