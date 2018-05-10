@@ -12,10 +12,10 @@ Levi knocked on Madge C. Crandall's door in New York's upper West side on 8 Apri
 
 It began:
 
-> "Today I had my census took!\\
+> Today I had my census took!\\
 I am recorded in the book-\\
 What I do, how old I am.\\
-All my secrets for Uncle Sam." \\
+All my secrets for Uncle Sam. \\
 
 Crandall told Hoover: "Inclosed versified lines record my impression of this expensive census." Hoover, once the nation's most celebrated engineer, might have taken comfort that the criticism was not worse---after all, the nation was enduring an economic depression. Probably before Hoover saw the letter, his secretary sloughed it off onto a clerk in the Census Bureau and it now persists in a file folder inscribed in part "Criticisms of Census, etc." in Washington D.C.'s National Archives Building.
 <!--Entry 215, “Publicity Materials File of the Statistical Research Division” Box 231 Folder: “E-2 Experiences of 1930 Census Supervisors and Enumerators. Criticisms of Census, Etc.”]]-->
