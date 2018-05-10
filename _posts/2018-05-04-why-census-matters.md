@@ -19,13 +19,13 @@ The census plays a key role in crafting the nation's identity and, for much of i
 ![Mutual of New York Depiction of US Frontier on Map](/images/MONY-paris-1900-frontier.jpeg)
 
 Even after the frontier had been declared closed, census officials saw themselves as gathering data that would illustrate just how exceptionally blessed America was. Consider this poem (another one!) written by a Memphis district supervisor for the 1930 census to inspire his enumerators and encourage public cooperation with them. He wrote, near the beginning:
-> To get the facts on which to boast that U.S.A. folks have the most
-> Of life’s good things by which they thrive and are the happiest alive.
-> Enumerators by the score will soon be passing door to door
+> To get the facts on which to boast that U.S.A. folks have the most\\
+> Of life’s good things by which they thrive and are the happiest alive.\\
+> Enumerators by the score will soon be passing door to door\\
 >To get those facts which must be had to make our Uncle Sam feel glad.
 
 He closed his verse:
-> Uncle Sam is asking, and he wants to know,
+> Uncle Sam is asking, and he wants to know,\\
 > How his sons and daughters are progressing, fast or slow.
 
 As that last line suggests, the census did not merely celebrated: it pointed to problems that might need improvement. The census could point out what sort of people were not progressing fast enough.
