@@ -4,6 +4,12 @@ title: A Note on Method
 permalink: /method/
 ---
 
+These posts do not attempt to be comprehensive. They are all beginnings, each an effort to win some new insights into the workings, significances, and meanings of the census.
+
+Some posts begin with an interesting primary source, with a compelling article from the secondary literature, or with something from the news. From the start, they spool out one or two key themes, often drawing on some other research I've been doing.
+
+A recurring type of post attempts to recreate census-taking encounters at the doorstep, at the moment of enumeration. These usually begin with a person who I've encountered in the archives or otherwise find interesting. These recreations fascinate me not only for the stories they tell about those being enumerated, but because they invite us to learn more about the enumerator, one of the too-long faceless thousands mobilized to record for the nation and for posterity the facts of every American life.
+
 ---
 ### Style
 I will capitalize Census Bureau.
