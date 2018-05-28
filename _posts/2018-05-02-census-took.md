@@ -4,9 +4,7 @@ title:  "'All My Secrets for Uncle Sam'"
 date:   2018-05-02 16:53:32 -0400
 categories:
 ---
-Madge C. Crandall did not want to talk about her radio. Among other things.
-
-But Mollie Levi's job was to ask her about it. And many other things.
+Madge C. Crandall did not want to talk about her radio. Among other things. But Mollie Levi's job was to ask her about it. And many other things.
 
 Levi knocked on Madge C. Crandall's door in New York's upper West side on 8 April 1930. The encounter irked Crandall, a free-lance writer, who two days later pounded out a short poem on her typewriter and sent it to, who else, the President of the United States: Herbert Hoover.
 
