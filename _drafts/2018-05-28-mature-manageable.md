@@ -5,9 +5,9 @@ date:   2018-05-28 12:05:32 -0400
 categories:
 ---
 
+The census of 1940 proved to Stuart Chase that the U.S. population [could now be accurately predicted](/2018/05/26/predictable-population-1940.html). Of course, he was wrong, but he did not know that. More importantly, the (wrong) predictions he now believed pointed toward a conclusion he was glad to embrace. America was *on the path to maturity*, and as a mature nation it not only could be better managed by a new technocratic elite, but indeed would *have to be managed*.
 
-
-Chase and his peers embraced the multiple associations conjured by talk of maturity. The America he anticipated would be older (in average population) and in that way mature. That sense of maturity could even be graphed:
+It did not bother Chase that "mature" could mean more than one thing. He played with those multiple meanings. The America he anticipated would be older (in average population) and in that way mature. That sense of maturity could even be graphed:
 ![A pictograph demonstrating a growing proportion of the population 65 and over from 1930 and projected to 1980](/images/chase_population_gettingOlder.jpg)
 
 Yet maturity also implied that the nation, like a person, had entered a new phase of life. It had "grown up":
