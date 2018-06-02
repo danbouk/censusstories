@@ -13,7 +13,7 @@ I have a favorite:
 
 ![Lily Furedi's "Subway"](/images/furedi_subway_small.jpg)
 
-Like many of the paintings I love, "Subway" teaches the viewer to see something special and valuable in the mundane. It's a mildly subversive piece: We're being invited to stare at people on the subway! Meanwhile, the subjects of the painting must stick to approved subway behaviors: furtive glances, quiet moments with friends or lovers, and above all the sustained *performance* of inattention to one's neighbors.
+Like many of the paintings I love, ["Subway"](https://americanart.si.edu/artwork/subway-8731) teaches the viewer to see something special and valuable in the mundane. It's a mildly subversive piece: We're being invited to stare at people on the subway! Meanwhile, the subjects of the painting must stick to approved subway behaviors: furtive glances, quiet moments with friends or lovers, and above all the sustained *performance* of inattention to one's neighbors.
 
 "Subway" also wants to teach how to better see the USA. It presents an integrated whole and treats this crowd with the dignity afforded white, native-born men at the time. The painting's central subjects are, to my eye, from left to right, a young woman applying lipstick, a dapper African American man who wears cool socks, a musician who for some reason I think is meant to be an immigrant from southern or eastern Europe^, a worker in a blue shirt (possibly Japanese), and a white woman in a compelling two-toned green dress. Lily Furedi instructs us in seeing the nation represented by an A train car.
 
