@@ -11,3 +11,6 @@ on counting Hoover as publicity stunt
 where was Hoover in 1940
 
 do Moran and Harrington... (this can be a short post)
+
+
+do post on the guy who gave an oral history, and try to find him in the census...
