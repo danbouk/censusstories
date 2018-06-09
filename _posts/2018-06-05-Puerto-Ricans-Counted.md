@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When the U.S. Counted Puerto Ricans for the First Time"
-date:   2018-06-02 12:00:00 -0400
+date:   2018-06-05 12:00:00 -0400
 categories:
 ---
 
@@ -30,6 +30,10 @@ If there was a single story pervading the census, it was this: Puerto Rico could
 
 I suppose that was the reason to photograph the enumerators, in blouses and bow-ties too---to show that they could and would cooperate.
 
-According to historian [Paul Kramer](http://www.jstor.org/stable/2700600), the Spanish-American war and the expansion of American empire faced opposition from those, like [Mark Twain](http://www.loc.gov/rr/hispanic/1898/twain.html), who believed the U.S. to be different from Europe, to be anti-imperial in its very nature. Yet more powerful proved to be those voices who claimed for Americans an exceptional, [racial character as English or Anglo-Saxons](https://hdl.handle.net/2027/uc1.31175006990033?urlappend=%3Bseq=39) capable of a better sort of empire than the Spanish.
+How might we interpret the work of these census takers? In a [1990 article in *American Studies*, the scholar Clara E. Rodriguez](http://www.jstor.org/stable/2712942) shed light on why some prominent Puerto Ricans did indeed welcome and support the U.S. invasion: "Ironically, some of the Puerto Rican *indepdentistas* (independence advocates) assisted the United States in its invasion of Puerto Rico because they expected that the United States would help to liberate Puerto Rico from its ties with Spain. There was disappointment and disillusionment when it became clear that the United States would not grant greater autonomy or independence to Puerto Rico."(439)
+
+Back in the U.S., according to historian [Paul Kramer](http://www.jstor.org/stable/2700600), the Spanish-American war and the expansion of American empire faced opposition from those, like [Mark Twain](http://www.loc.gov/rr/hispanic/1898/twain.html), who believed the U.S. to be different from Europe, to be anti-imperial in its very nature. Yet more powerful proved to be those voices who claimed for Americans an exceptional, [racial character as English or Anglo-Saxons](https://hdl.handle.net/2027/uc1.31175006990033?urlappend=%3Bseq=39) capable of a better sort of empire than the Spanish.
 
  So the War Department's census probably did political and rhetorical work. It asserted the capacity of the imperial apparatus to know in detail (nearly 400 pages worth) the island, its resources, its history, its politics, and its people. If Puerto Rico could be known, then couldn't it also be governed rationally? This census, I think, told a story calculated to ease the minds of an expanding imperial power and to justify extended rule.
+
+ (Updated on 9 June 2018)
