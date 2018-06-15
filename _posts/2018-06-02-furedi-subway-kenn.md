@@ -27,7 +27,7 @@ Born in [Budapest](https://americanart.si.edu/artwork/subway-8731
 Furedi became the subject of a very different sort of project to depict America on 13 April 1940, when Lucile M. Kenn knocked on the door of Furedi's apartment. Paula Furedi, Lily's mother, probably invited Kenn in and asked her to take a seat. Kenn drew out a large leather portfolio containing her census forms. On side B of sheet 16, Kenn recorded the summary details of the two Furedis's lives.
 
 ![A completed Census form with information about Lily Furedi](/images/1940_Census_Furedi_excerpt.jpg)
-<!--- E.D. is 31-1829, S.D. is 21 downloaded from Ancestrylibrary.com & but all 1940 census sheets are provided with cooperation of NARA--->
+<!--- E.D. is 31-1829, S.D. is 21, sheet 16B downloaded from Ancestrylibrary.com & but all 1940 census sheets are provided with cooperation of NARA--->
 
 By 1940, Paula and Lily (Kenn misspelled it "Lilly") had moved to Harlem where they paid $52 a month for an apartment in a building at 87 Hamilton Place. Kenn distilled Lily Furedi down to her census-defined categories: female, white, single, 4-years college educated, a naturalized citizen born in Hungary, and---as her occupation--- "mural painting." Furedi still received federal artistic support, now through the WPA art project and may well have been off working at the very moment of this interview on a set of murals to be [displayed in Bellevue Hospital's psychiatric building](https://www.flickr.com/photos/nycdesign/16347788391/in/album-72157650025022517/
 ). Furedi's "Simple Way of Life" mural appears aimed at transporting patients and staff out of New York City and into an idealized rural town. (I have yet to determine if these murals are still hanging somewhere in Bellevue...)
