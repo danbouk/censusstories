@@ -94,4 +94,4 @@ CT:2 =2
 
 ^^In line with the shifting racial categories of the Census Bureau of the time, Kenn categorized everyone in the building as white. The history of those categories is big topic, one for another post. In the meantime, you learn about how Puerto Ricans "became white" from [this article by Mara Loveman and Jeronimo O. Muniz](http://www.jstor.org/stable/25472503), this [related one by Loveman](http://www.jstor.org/stable/25613116), or chapter 15 of [Paul Schor's *Counting Americans*](https://www.amazon.com/Counting-Americans-Census-Classified-Nation/dp/019991785X/ref=sr_1_1?ie=UTF8&qid=1528388798&sr=8-1&keywords=paul+schor+census).
 
-^^^For more on this first wave, Rodriguez suggests Sanchez-Korrol's *From Colonia to Community: The History of Puerto Ricans in New York City, 1917-1948*.
+^^^For more on this first wave, Rodriguez suggests Sanchez-Korrol's [*From Colonia to Community: The History of Puerto Ricans in New York City, 1917-1948*](https://www.amazon.com/Colonia-Community-History-AMERICAN-SOCIETY/dp/0520079000).
