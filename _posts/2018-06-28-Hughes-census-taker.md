@@ -33,7 +33,7 @@ That MRS., too--\\
 I'll have you know\\
 I'm Madam to you!
 
-Here again, a superficial errors points to a deeper truth. There's no place on a census form for labels like Mrs. or Madam. Yet the census taker's sheet did note, as foundational questions, both:
+Here again, a superficial error points to a deeper truth. There's no place on a census form for labels like Mrs. or Madam. Yet the census taker's sheet did note, as foundational questions, both:
 * relationship to a (by default, male) head of household *and*
 * marital status.
 
@@ -46,6 +46,17 @@ I've [quoted previously](http://localhost:4000/2018/05/04/why-census-matters.htm
 <!---See Folder “C-3 Census Records: 1930” Entry 215, “Publicity Materials File of the Statistical Research Division” Box 231, NARA I--->  
 
 Census officials argued for their count as a dignifying activity---every single person counted, and the details of their lives were worth recording. Perhaps that's another reason that Madam Johnson would fight her census taker---why should a stranger be trusted with one's "permanent place in the history of the country"?
+
+To **her** country, as Madam affirmed:
+
+>There's nothing foreign\\
+To my pedigree:\\
+Alberta K. Johnson---\\
+*American* that's me.
+
+(From "Madam's Calling Cards")
+
+**Updated 30 June 2018**
 
 ---
 You can listen to the whole of Hughes' poem [here](https://open.spotify.com/track/60iQ2vFPfJmNzeoOYk4y5w).
