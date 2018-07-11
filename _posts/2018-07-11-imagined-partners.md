@@ -18,7 +18,7 @@ Alaska remained a territory for another [20 years](https://www.eisenhower.archiv
 
 ![Image of race and language categories](/images/language_race_Alaska.jpg)
 
-In this context, the Division of Territorial, Insular, and Foreign Statistics invented a pair of literal ["cigar store Indians"](http://americanhistory.si.edu/collections/search/object/nmah_998014) to illustrate the use of the "partner" category. Commercial culture (the cigar store Indian as marketing tool) met elite intellectual life of the early-twentieth century (scientific racism and physical anthropology) on the census schedule grid---all to try to make sense of unmarried people and same-sex couples within the United States' colonizing project.
+In this context, the Division of Territorial, Insular, and Foreign Statistics invented a pair of literal ["cigar store Indians"](http://americanhistory.si.edu/collections/search/object/nmah_998014) (Harris and Brown) to illustrate the use of the "partner" category. Commercial culture (the cigar store Indian as marketing tool) met elite intellectual life of the early-twentieth century (scientific racism and physical anthropology) on the census schedule grid---all to try to make sense of unmarried people and same-sex couples within the United States' colonizing project.
 <!---See Form No. A-100 for Population Census of Alaska in Box 25, Folder "1940 Territories and Possessions—Forms + Schedules" Bureau of Census Records – NARA I, Record Group 29 — 252 – Classified File for the Sixteenth Decennial Census, 1903-1943, 1946-1948--->
 
 ---
