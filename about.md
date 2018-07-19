@@ -10,4 +10,5 @@ I enjoy most explaining how institutions and practices that look boring, actuall
 
 Can't wait to learn more about the census? The best place to start is [this book](https://yalebooks.yale.edu/book/9780300195422/american-census) by historian Margo Anderson!
 
+
 [jekyll-organization]: https://github.com/jekyll
