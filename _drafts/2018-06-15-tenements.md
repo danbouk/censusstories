@@ -6,6 +6,8 @@ categories:
 ---
 
 ![image]
+--Adjust this to be a housing census story?
+(does the census of housing play into HOLC maps, etc?)
 
 Jacob Riis's lantern slides (a projection technology) portrayed: [list] His images still dominate our historical imagination of the New York 'tenement' at the end of the nineteenth century and beyond.
 
@@ -20,7 +22,3 @@ By 1920, the U.S. Census Bureau declared that the entire nation had tipped from 
 
 
 [eventually compare red-line maps to Sanford maps to Hull House maps; or think about the way the 1940s photography walked off to the rural west, but the census did not...]
-
-accomany Kenn and stroll through Furedi's building and the people who live there... (talking about enumerator instructions)...can link back to this post talking about race/ethnicity etc.
-
-talking about PR: look back Rodriguez article to explain why this early group came to NYC...
