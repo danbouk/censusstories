@@ -7,6 +7,8 @@
 
 ---
 
+make this a post about Elmo Roper; then get to the income question stuff to show where they forms of representing USA come together
+
 CODA: Controversy stuck to the income question.
 
 Income and "incoming correspondence" a weary joke

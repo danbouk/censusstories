@@ -4,7 +4,7 @@
 
 layout: home
 
-list_title: To know America...
+list_title: On Counting, and Being Counted...
 
 ---
 <!--- ![Cooperate logo from 1940 US Census](/images/1940_cooperate_stamp.jpg)EVERY CENSUS HAS A STORY ![Cooperate logo from 1940 US Census](/images/1940_cooperate_stamp.jpg) --->
