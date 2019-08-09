@@ -4,7 +4,7 @@ title:  "8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"
 date:   2018-10-29 10:05:32 -0400
 categories:
 ---
-On 19 January 1940 in a brief but tantalizing letter, a census enumerator named Mrs. Agnes Parrott outlined a most unusual adventure in enumerating. I smelled a story.
+[Updated and corrected!] On 19 January 1940 in a brief but tantalizing letter, a census enumerator named Mrs. Agnes Parrott outlined a most unusual adventure in enumerating. I smelled a story.
 
 ![Mrs. Agnes Parrott of Angoon, Alaska to Jacob P. Anderson, Supervisor of Census for Alaska 19 January 1940](/images/Parrott-letter-1940Jan19_cropped.jpg)
 
@@ -40,11 +40,11 @@ But do not let it. To find Agnes Parrott in Angoon, Alaska you have to trek to t
 
 Once you make it through security, you'll need to go through a short orientation and get your researcher's card. This is all simple enough, and the [NARA website covers the details well](https://www.archives.gov/dc/researcher-info). The first pull (that is, the first time the archive staff will go gather the materials you've requested) is 9:30am and you might just get a request in my then if you arrive by 8:45am when the archives open. There are lockers available inside (so be sure you bring a quarter!), many big enough to hold the roller bag you'll need to take with you so you can catch your bus or flight after you squeeze in one more full day of digging through records.
 
-Once you're properly credentialed, you can finally see **the Binder!** I cannot underestimate just how important the Binder is---without it, we'd be lost and Agnes Parrott's story would lie forever hidden.
+Once you're properly credentialed, you can finally see **the Binder** and **the Carton!** I cannot underestimate just how important the Binder and Carton are---without them, we'd be lost and Agnes Parrott's story would lie forever hidden.
 
-The Binder sits on a shelf filled with binders and small archival boxes just to the right when you enter the main room (the Research Center) on the first floor. The room you want sits next to the [Innovation Hub](https://www.archives.gov/innovation-hub) (which I have never entered or seen anyone else enter). Sign in with your research card number and head to the far end of the room. There you'll find a binder labeled RG 29.
+The Binder and Carton sit on a shelf filled with binders and small archival boxes just to the right when you enter the main room (the Research Center) on the first floor. The room you want sits next to the [Innovation Hub](https://www.archives.gov/innovation-hub) (which I have never entered or seen anyone else enter). Sign in with your research card number and head to the far end of the room. There you'll find a black binder labeled RG 29 and a grey archival carton called (brace yourself) "New HMS Record Groups 11, 21, 28, 29, 42, 66, 85, 116, 123, 132, 172, 205, 210, 267, 279, 302, 308, 328, 351, 418, 435, 482, 516."
 
-Each entry within contains a physical address for a collection, which could just be a few boxes or could stretch on for dozens or more. To take an example that's on the smaller side, entry A1-389-E consists of 4 small archive boxes filled with some of the papers of a census director, [A. Ross Eckler](https://www.census.gov/history/www/reference/oral_histories/a_ross_eckler.html). The binder entry looks like this:
+The binder contains descriptions of what's in RG 29, often vague, but so much better than nothing. Each entry within contains a physical address for a collection, which could just be a few boxes or could stretch on for dozens or more. To take an example that's on the smaller side, entry A1-389-E consists of 4 small archive boxes filled with some of the papers of a census director, [A. Ross Eckler](https://www.census.gov/history/www/reference/oral_histories/a_ross_eckler.html). The binder entry looks like this:
 
 ![Finding aid / Binder entry for A1-389-E](/images/Eckler-example-finding-aid-small-labeled.jpg)
 
@@ -52,15 +52,15 @@ I've added labels (in black) from 1 to 8. For larger collections that span multi
 
 ![A Reference Service Slip filled out by Bouk requesting material from RG 29, A1-389-E](/images/Eckler_sample_slip.jpg)
 
-Once you learn these correspondences, you can fill out a slip based on any entry in the binder. A reference archivist will check the slip once you're done and the submit it for retrieval. That's your cue to head upstairs to the second floor, to await the arrival of the requested boxes after the next pull-time in the main reading room with its grand, vaulted ceiling and stately wood paneling.
+Once you learn these correspondences, you can fill out a slip based on any entry in the file in the carton. A reference archivist will check the slip once you're done and the submit it for retrieval. That's your cue to head upstairs to the second floor, to await the arrival of the requested boxes after the next pull-time in the main reading room with its grand, vaulted ceiling and stately wood paneling.
 
 ---
 <p></p>
 The collection housing Agnes Parrott is, in comparison to that Eckler collection, practically Alaskan in scale. It contains 13 boxes stretching over 5.6 linear feet. (For context, if I can photograph relevant material from a few boxes in one day, I am very pleased.) And those are only a portion of the boxes that hold materials from America's 1940 territories (Hawaii and Alaska) and its possessions (which was the polite way of saying "colonies").^^
 
-Here's the relevant entry from the binder:
+The Binder doesn't mention Agnes Parrott, but it places entry 252 within the "Records of the Division of Territorial, Insular, and Foreign Statistics," which helps.  Armed with the entry number, I duck over to the Carton and find the relevant entry in the file folder for RG 29:
 
-![Binder / Finding aid entry for PI-161 252](/images/Finding-aid-RG29-territorial-census-small-labeled.jpg)
+![Carton / Finding aid entry for PI-161 252](/images/Finding-aid-RG29-territorial-census-small-labeled.jpg)
 
 (I've added the numerical labels so you, dear reader, can practice filling out your call slip at home!)
 
