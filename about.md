@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-**After a brief hiatus, the Census Stories are back! Expect new stories appearing regularly, very soon!**
 
-[I'm Dan Bouk](http://www.colgate.edu/facultysearch/facultydirectory/dbouk) and I am writing a book called *Stories from the Inventory*. It's about the stories that census records can tell about Americans, their families, and the nation. It is about learning to read data in a new way, almost the way one reads a novel, or learns to interpret architecture.
+[I'm Dan Bouk](http://www.colgate.edu/facultysearch/facultydirectory/dbouk) and I am writing a book called *Democracy's Data and How to Read It*. It's about the stories that census records can tell about Americans, their families, and the nation. It is about learning to read data in a new way, almost the way one reads a novel, or learns to interpret architecture.
 
 On this blog, I'm sharing some of my discoveries as I go.
 
