@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Well-Known Fact"
-date:   2020-08-08 10:05:32 -0400
+date:   2020-08-13 10:05:32 -0400
 categories:
 ---
 
