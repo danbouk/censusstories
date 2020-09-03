@@ -397,4 +397,4 @@ The end of the methods controversy sealed another victory too, the victory of th
 Walter F. Willcox, "The Apportionment of Representatives: Annual Address fo the President," *American Economic Review* 6, no.1, Supplement (1916): 3-16.
 https://www.jstor.org/stable/1803789
 
----
+--->
