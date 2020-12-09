@@ -123,7 +123,11 @@ But before science brought stability to the system, it would play a key role in 
 
 
 
+---
+---
 
+<p></p>
+This post is published under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license by [me](https://datasociety.net/people/bouk-dan/).
 
 
 
