@@ -179,6 +179,11 @@ The data had been made to speak, by James Weldon Johnson and his colleagues, and
 
 [Find out in the next installment of this series on the 1920 census and apportionment. Just joining in? Here are installments [1](https://censusstories.us/2020/06/25/scientists-census.html), [2](https://censusstories.us/2020/06/29/abnormal.html), and [3](https://censusstories.us/2020/07/15/in-the-field.html).]
 
+---
+---
+
+<p></p>
+This post is published under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license by [me](https://datasociety.net/people/bouk-dan/).
 
 <!---
 We sometimes say that the data speaks for itself.

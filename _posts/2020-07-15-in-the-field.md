@@ -19,6 +19,8 @@ They have discovered a consistently leaky statistical apparatus. Richard Steckel
 
 <!---
 Richard H. Steckel, “The Quality of Census Data for Historical Inquiry: A Research Agenda,” Social Science History 15, no. 4 (1991): 579-599 at 586-587, 593.
+
+J. David Hacker, “New Estimates of Census Coverage in the United States, 1850-1930,” Social Science History 37, no. 1 (2013): 71-101.
 --->
 
 But boy did it showcase its flaws with flair.
@@ -270,3 +272,9 @@ Hill quote from Joseph A. Hill, "Progress of the Population Census," *Quarterly 
 ---->
 
 The 1920 census was not an exceptionally flawed census. But it showcased its flaws with flair.
+
+---
+---
+
+<p></p>
+This post is published under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license by [me](https://datasociety.net/people/bouk-dan/).
