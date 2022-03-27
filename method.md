@@ -3,6 +3,14 @@ layout: page
 title: A Note on Method
 permalink: /method/
 ---
+Note: Thanks for visiting *CensusStories.US*! This site is MOSTLY RETIRED. For new stuff, come visit me at [SHROUDED IN CLOAKS OF BORINGNESS](https://www.shroudedincloaksofboringness.com/), a blog.
+
+If you want to be alerted right away as I tell the stories of power, politics, meaning, and identity that hide within and behind bureaucracies, budgets, censuses, and all sorts of public and private numbers, then please sign up for my e-mail newsletter! (I promise, it is sent with just the right infrequency.)
+XXXX
+
+In the meantime, I'm leaving Census Stories, USA here those teachers who still use these stories in their classrooms.
+
+Now Back to the Original Site:
 
 These posts do not attempt to be comprehensive. They are all beginnings, each an effort to win some new insights into the workings, significances, and meanings of the census.
 
